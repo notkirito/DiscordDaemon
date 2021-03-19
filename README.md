@@ -1,2 +1,2 @@
 # DiscordDaemon
-discord daemon for bots, interface is just fifos, made in bash lmao
+discord daemon for bots, interface is just a bunch of fifos, made in bash lmao
